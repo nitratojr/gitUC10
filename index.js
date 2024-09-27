@@ -1,1 +1,2 @@
-deixa o like
+console.log('sor iuri um mago!!!');
+
